@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assert/h2x86_icon.png" alt="h2x86" width="120"/>
+<img src="assert/h2x86_icon.png" alt="h2x86" width="150"/>
 
 # h2x86
 
