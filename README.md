@@ -19,8 +19,8 @@
 | 宿主架构 | 示例平台 |
 |----------|----------|
 | **LoongArch64** | 龙芯 3A5000 / 3A6000 |
-| **ARM64** (aarch64) | Raspberry Pi 4/5、Ampere、AWS Graviton |
-| **RISC-V64** | SiFive、StarFive、平头哥 |
+| **ARM64** (aarch64) | Ampere、AWS Graviton |
+| **RISC-V64** | SiFive |
 
 ---
 
